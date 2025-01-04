@@ -10,3 +10,4 @@ main proc
     MOV AH, 4CH
     INT 21h
 main endp
+END
