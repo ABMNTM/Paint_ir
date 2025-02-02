@@ -1,0 +1,9 @@
+# .obj files
+*.obj
+
+# .lst files
+*.lst
+
+# .exe and .com files
+*.exe
+*.com
